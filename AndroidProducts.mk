@@ -15,7 +15,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_garden.mk
+    $(LOCAL_DIR)/omni_OP4BFB.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_garden-eng
+    omni_OP4BFB-eng
